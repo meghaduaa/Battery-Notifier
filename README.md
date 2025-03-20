@@ -10,3 +10,6 @@ Python+a few other python packages:
 
 3. win10toast
     > pip install win10toast
+
+Run the script using:
+python battery.py
