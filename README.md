@@ -1,6 +1,6 @@
 This python script gives you a notification about your battery percentage of the device.
 
-Required:
+Required:\n
 Python+a few other python packages:
 1. psutil
     > pip install psutil
